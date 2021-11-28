@@ -1,0 +1,118 @@
+/*======================================
+//--//-->   GENERAL
+======================================*/
+.title-a {
+  color: #0078ff !important;
+}
+
+.subtitle-a {
+  color: #ffffff !important;
+}
+
+.tech-icon {
+  max-width: 30px;
+  border-radius: 10px;
+}
+
+.tech-title {
+  margin-bottom: 5px;
+}
+
+/*======================================
+//--//-->   ABOUT PROFILE
+======================================*/
+
+.about-profile {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .profile-title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+  .profile-whatsapp {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #1b1b1b;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .profile-a {
+    text-decoration: none;
+    font-size: 22px;
+    color: #1b1b1b;
+  }
+  
+  .profile-a:hover {
+    opacity: 0.7;
+  }
+
+  .profile-whatsapp:hover {
+    /* opacity: 0.7; */
+    background-color: #128c7e;
+  }
+
+  .profile-name {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+
+  .profile-email {
+    font-size: 14px;
+  } 
+
+/*======================================
+//--//-->   SKILLS
+======================================*/
+
+.core-skill {
+  margin-bottom: 30px;
+  margin-top: -50px;
+}
+
+.core-skill--title {
+  color: white;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+.overlay-mf {
+  opacity: 0.1 !important;
+}
+
+.skill-number {
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+
+.skill-text {
+  font-size: 1.3rem;
+  font-weight: bolder;
+}
+
+/*======================================
+//--//-->   PORTFOLIO
+======================================*/
+
+.work-content .w-like {
+  font-size: 1.5rem !important;
+  margin-top: 20px;
+}
+
+.w-more {
+  display: flex !important;
+}
+
+.portfolio-tech-badge {
+  padding-left: 10px;
+}
